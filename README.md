@@ -5,6 +5,7 @@
 **INTERN ID**:CT08NAH
 **DOMAIN**:PYTHON
 **BATCH DURATION**:January 15th/2025 to February 15th/2025
+
 **DESCRIPTION**:
 
 This Python script fetches weather forecast data for a specified city using the OpenWeatherMap API and visualizes temperature trends using Matplotlib and Seaborn. The script extracts temperature values from the forecasted data and plots a time-series graph, making it easier to observe temperature variations over the next few days.
